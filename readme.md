@@ -2,7 +2,9 @@ A Twitter scraper and visualizer. Scrapes with nodejs, vizualizes with Google Ma
 
 # Install:
 
+```
 npm install
+```
 
 Create a /secret/ directory with a clientConfig.js and serverConfig.js and replace all the CAPS with your details. You will need mongolab, twitter api and google maps api keys.
 
