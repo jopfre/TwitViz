@@ -1,6 +1,6 @@
 A Twitter scraper and visualizer. Scrapes with nodejs, vizualizes with Google Maps API 
 
-Vizualizer demo: http://jopf.re/twitviz/
+Vizualizer demo: https://jopf.re/twitviz/
 
 # Install:
 
