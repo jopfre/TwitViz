@@ -31,6 +31,8 @@ var config = {
 exports.config = config;
 ```
 
+# About
+
 There are two components.
 
 The front end is located in /site and is static html. Currently it just requests the tweets from the mongolab db.
@@ -39,6 +41,7 @@ The scraper is located in /scrape. You can run it using npm start. Currently it 
 
 There is a rest api in /scrape/server.js which will allow for more functionality in the future.
 
-TODO:
+## TODO
+
 Store more info about the tweets.
 Display that info on click on the front end.
